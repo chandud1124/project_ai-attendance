@@ -1,0 +1,16 @@
+✅ Database loaded successfully
+
+╔════════════════════════════════════════════════════════════╗
+║   🚀 Local Backend Server Running                          ║
+║   📡 Port: 3500                                             ║
+║   🗄️  Database: JSON file (database.json)                  ║
+║   🔐 JWT Secret: rfid-attendance-secr...                    ║
+║                                                            ║
+║   📚 Demo Accounts:                                        ║
+║   • admin@institute.edu / Admin@123                        ║
+║   • dept@institute.edu / Dept@123                          ║
+║   • teacher@institute.edu / Teacher@123                    ║
+║   • student@institute.edu / Student@123                    ║
+║   • tech@institute.edu / Tech@123                          ║
+╚════════════════════════════════════════════════════════════╝
+  

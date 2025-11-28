@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "24103a372fdac154c04f7b3493205d50",
+      "email": "admin@institute.edu",
+      "password_hash": "$2a$10$gJ70wNjpLzF8UBOR.GPIluaGOtvZZ.T6PJ5DS.1rnOELZoTLxj.Gm",
+      "full_name": "System Administrator",
+      "role": "admin",
+      "department_id": "467d03815c272ee2824c73447d0763f2",
+      "phone": "+1234567890",
+      "is_active": true,
+      "created_at": "2025-11-03T04:11:32.816Z",
+      "updated_at": "2025-11-03T04:11:32.816Z"
+    },
+    {
+      "id": "6405c6f39483b13440bb08b63ecf5d60",
+      "email": "dept@institute.edu",
+      "password_hash": "$2a$10$8ZGfdQ80wxOnnqYfhUFnHOgypmLbZNEU/oPLsvwOH6YcQEHKfGCXO",
+      "full_name": "Department Head",
+      "role": "department_head",
+      "department_id": "467d03815c272ee2824c73447d0763f2",
+      "phone": "+1234567891",
+      "is_active": true,
+      "created_at": "2025-11-03T04:11:32.816Z",
+      "updated_at": "2025-11-03T04:11:32.816Z"
+    },
+    {
+      "id": "dd1b7c412d4f25072f8628c966ac2889",
+      "email": "teacher@institute.edu",
+      "password_hash": "$2a$10$kix6KDMA7wlVBV7.32MKKOxfC17vCSBainCigeK2bGMF3HdeQ85au",
+      "full_name": "John Teacher",
+      "role": "teacher",
+      "department_id": "467d03815c272ee2824c73447d0763f2",
+      "phone": "+1234567892",
+      "is_active": true,
+      "created_at": "2025-11-03T04:11:32.816Z",
+      "updated_at": "2025-11-03T04:11:32.816Z"
+    },
+    {
+      "id": "05d6c819be30b06d9c924d8c59830cc2",
+      "email": "student@institute.edu",
+      "password_hash": "$2a$10$SAIloS93POjbXmbHpohoqeJbD0fOAGcaTif7jEx2CSBydsX.kVRqW",
+      "full_name": "Jane Student",
+      "role": "student",
+      "department_id": "467d03815c272ee2824c73447d0763f2",
+      "phone": "+1234567893",
+      "is_active": true,
+      "created_at": "2025-11-03T04:11:32.816Z",
+      "updated_at": "2025-11-03T04:11:32.816Z"
+    },
+    {
+      "id": "ae83a32c0848ed599c1b50369ff97621",
+      "email": "tech@institute.edu",
+      "password_hash": "$2a$10$ktggi0t4M5waj8vUO4qnH.d521lLiADMZQE0avr9jyxi0fwDE4wny",
+      "full_name": "Technical Support",
+      "role": "technical_staff",
+      "department_id": "467d03815c272ee2824c73447d0763f2",
+      "phone": "+1234567894",
+      "is_active": true,
+      "created_at": "2025-11-03T04:11:32.816Z",
+      "updated_at": "2025-11-03T04:11:32.816Z"
+    }
+  ],
+  "departments": [
+    {
+      "id": "467d03815c272ee2824c73447d0763f2",
+      "name": "Computer Science",
+      "code": "CS",
+      "created_at": "2025-11-03T04:11:32.815Z",
+      "updated_at": "2025-11-03T04:11:32.816Z"
+    }
+  ],
+  "classrooms": [],
+  "rfid_devices": [],
+  "cameras": [],
+  "students": [],
+  "timetable": [],
+  "attendance": [],
+  "audit_logs": [],
+  "device_health_logs": [],
+  "settings": []
+}
